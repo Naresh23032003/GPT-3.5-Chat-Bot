@@ -10,7 +10,7 @@ This project demonstrates a simple chat bot interface powered by OpenAI's GPT-3.
 - Create a file named `.env` in the project root directory.
 - Add your OpenAI API key to the `.env` file in the following format:
   ```
-  OPENAI_API_KEY=your_openai_api_key_here
+  OPENAI_API_KEY=your_openai_api_key
   ```
 
 3. Run the Streamlit app:
